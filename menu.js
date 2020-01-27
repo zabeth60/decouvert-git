@@ -1,4 +1,4 @@
-cons menu = `
+const menu = `
 <ul>
     <li>
         <a href="index.html">acceuil</a>
